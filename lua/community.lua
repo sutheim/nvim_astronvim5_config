@@ -33,7 +33,7 @@ return {
   { import = "astrocommunity.lsp.actions-preview-nvim" },
   -- { import = "astrocommunity.lsp.delimited-nvim" },
 
-  { import = "astrocommunity.completion.copilot-lua" },
+  -- { import = "astrocommunity.completion.copilot-lua" },
   { import = "astrocommunity.note-taking.obsidian-nvim" },
 
   -- { import = "astrocommunity.editing-support.true-zen-nvim" },
@@ -45,7 +45,7 @@ return {
   { import = "astrocommunity.editing-support.undotree" },
   { import = "astrocommunity.editing-support.yanky-nvim" },
   -- { import = "astrocommunity.editing-support.copilotchat-nvim" },
-  { import = "astrocommunity.editing-support.codecompanion-nvim" },
+  -- { import = "astrocommunity.editing-support.codecompanion-nvim" },
 
   -- { import = "astrocommunity.file-explorer.oil-nvim" },
   -- {
