@@ -12,7 +12,6 @@ return {
   { import = "astrocommunity.pack.rust" },
   -- { import = "astrocommunity.pack.cpp" },
   { import = "astrocommunity.pack.markdown" },
-  { import = "astrocommunity.pack.kotlin" },
   { import = "astrocommunity.pack.nushell" },
   { import = "astrocommunity.pack.wgsl" },
   -- { import = "astrocommunity.pack.zig" },
